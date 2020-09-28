@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tmhuyett/suzdalia.git/static/css/main.62927a30.chunk.css",
-    "main.js": "/tmhuyett/suzdalia.git/static/js/main.37fe0722.chunk.js",
-    "main.js.map": "/tmhuyett/suzdalia.git/static/js/main.37fe0722.chunk.js.map",
+    "main.js": "/tmhuyett/suzdalia.git/static/js/main.bce9c8c3.chunk.js",
+    "main.js.map": "/tmhuyett/suzdalia.git/static/js/main.bce9c8c3.chunk.js.map",
     "runtime-main.js": "/tmhuyett/suzdalia.git/static/js/runtime-main.46e462c7.js",
     "runtime-main.js.map": "/tmhuyett/suzdalia.git/static/js/runtime-main.46e462c7.js.map",
-    "static/js/2.32710e35.chunk.js": "/tmhuyett/suzdalia.git/static/js/2.32710e35.chunk.js",
-    "static/js/2.32710e35.chunk.js.map": "/tmhuyett/suzdalia.git/static/js/2.32710e35.chunk.js.map",
+    "static/js/2.9451d1f6.chunk.js": "/tmhuyett/suzdalia.git/static/js/2.9451d1f6.chunk.js",
+    "static/js/2.9451d1f6.chunk.js.map": "/tmhuyett/suzdalia.git/static/js/2.9451d1f6.chunk.js.map",
     "index.html": "/tmhuyett/suzdalia.git/index.html",
-    "precache-manifest.ce74f8a34545f35c94d5ad75df7a088c.js": "/tmhuyett/suzdalia.git/precache-manifest.ce74f8a34545f35c94d5ad75df7a088c.js",
+    "precache-manifest.307a4d5a68601f71a25287295e9bd22a.js": "/tmhuyett/suzdalia.git/precache-manifest.307a4d5a68601f71a25287295e9bd22a.js",
     "service-worker.js": "/tmhuyett/suzdalia.git/service-worker.js",
     "static/css/main.62927a30.chunk.css.map": "/tmhuyett/suzdalia.git/static/css/main.62927a30.chunk.css.map",
-    "static/js/2.32710e35.chunk.js.LICENSE.txt": "/tmhuyett/suzdalia.git/static/js/2.32710e35.chunk.js.LICENSE.txt"
+    "static/js/2.9451d1f6.chunk.js.LICENSE.txt": "/tmhuyett/suzdalia.git/static/js/2.9451d1f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.46e462c7.js",
-    "static/js/2.32710e35.chunk.js",
+    "static/js/2.9451d1f6.chunk.js",
     "static/css/main.62927a30.chunk.css",
-    "static/js/main.37fe0722.chunk.js"
+    "static/js/main.bce9c8c3.chunk.js"
   ]
 }
